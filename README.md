@@ -8,7 +8,7 @@ The dashboard provides an executive-level overview of business performance, tran
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](Sales%20Performance%20Dashboard.jpg)
+![Sales Performance Dashboard](./Sales%20Performance%20Dashboard.jpg)
 
 ## Business Objectives
 
